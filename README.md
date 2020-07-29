@@ -12,7 +12,7 @@ At the end of the game, the number of tries it took you to break the code will b
 
 ## Inspiration:
 
-* Mastermind board game: https://en.wikipedia.org/wiki/Mastermind_(board_game)\
+* Mastermind board game: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 * Cows and Bulls exercise: https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html
 
 ## Technology:
