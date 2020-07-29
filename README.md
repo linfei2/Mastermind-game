@@ -4,9 +4,9 @@
 
 Try to guess randomly generated 4-digit code. After every try, you'll get feedback:
 
-"in place" for numbers situated correctly\ 
-"somewhere else" for numbers included in the code, but placed differently\
-"none" for numbers that are not in the code\
+"in place" for numbers situated correctly \ 
+"somewhere else" for numbers included in the code, but placed differently \
+"none" for numbers that are not in the code \
 
 At the end of the game, the number of tries it took you to break the code will be displayed.
 
